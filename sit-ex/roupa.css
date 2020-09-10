@@ -1,0 +1,13 @@
+@charset "UTF-8";
+
+div#div{
+    width: 400px;
+    height: 400px;
+    text-align: auto;
+    background-color: aqua;
+    text-size-adjust: 70px;
+}
+
+body{
+    background-color: blue;
+}
