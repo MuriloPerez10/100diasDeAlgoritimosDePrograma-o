@@ -1,11 +1,7 @@
 
 ## Shell Scripts for Settings
 
-
-<center>
 ![Gif](https://c.tenor.com/Asg85aDTiIEAAAAM/ok-heres-the-script-south-park.gif)
-</center>
-
 
 ## 🎯Objetvio
 Este repositorio tem o objetivo de compartilhar Scripts para automação de sistemas linux
