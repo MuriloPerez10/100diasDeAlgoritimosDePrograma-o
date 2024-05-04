@@ -21,7 +21,7 @@ e ambientes Windows, tendo scripts desigindos para configuração de sistema, co
 - Automações de verificações de logs
 - Automação de processos de segurança
 
-##Observações
+## Observações
 Ambiente de armazenamento de scripts em geral também
 
 ## Autores
