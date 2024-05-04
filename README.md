@@ -5,18 +5,21 @@
 
 ## 🎯Objetvio
 Este repositorio tem o objetivo de compartilhar Scripts para automação de sistemas linux
-e Scripts para a configuração de servidores linux, para devs que querem criar seu ambinte de 
-teste para seus projetos
+e ambientes Windows, tendo scripts desigindos para configuração de sistema, configuração de ambiente e scripts de seguraça
 
-
-
-## Tipo de configurações
+## Tipo de scripts de configurações
 
 - Configuração de servidores web
 - Configuração de servidores de e-mail
 - Configuração de Banco de dados
 - Configuração de servidor de arquivos
 - Editar estilo do sistema da forma que usa, em novas Máquinas automaticamente
+
+## Tipo de scripts para Segurança
+
+- Verificação de portas
+- Automações de verificações de logs
+- Automação de processos de segurança
 
 ## Autores
 
